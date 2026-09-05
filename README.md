@@ -15,3 +15,4 @@ Even in the base case, entry leverage (~8.0x, matching Fitch's real reported fig
 ## Tools used
 
 Excel (financial modelling), Python (pandas, matplotlib)
+[Covenant Stress Test Chart](covenant_stress_test.png)
